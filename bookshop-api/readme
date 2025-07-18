@@ -1,0 +1,10 @@
+Valid dtoIn get price
+{
+  "isbn": "9780747532699",
+  "condition": "new"
+}
+Valid dtoIn no price
+{
+  "isbn": "9781000000153",
+  "condition": "as_new"
+}
